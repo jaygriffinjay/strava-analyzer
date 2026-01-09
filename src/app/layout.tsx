@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import type { ReactNode } from 'react';
 import { ThemeProviders } from '../theme/theme';
 import { GlobalStyles } from '../styles/GlobalStyles';
